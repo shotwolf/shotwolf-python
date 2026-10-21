@@ -36,8 +36,8 @@ dependencies = []
 [project.urls]
 Homepage = "https://shotwolf.com"
 Documentation = "https://shotwolf.com/docs/sdks/"
-Repository = "https://github.com/shotwolf/python"
-Issues = "https://github.com/shotwolf/python/issues"
+Repository = "https://github.com/shotwolf/shotwolf-python"
+Issues = "https://github.com/shotwolf/shotwolf-python/issues"
 
 [project.optional-dependencies]
 dev = ["pytest"]
